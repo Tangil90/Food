@@ -8,6 +8,6 @@
 
 ## Tools: HTML, CSS, JavaScript
 
-## Live Link: https://food-liner.netlify.app
+
 
 ## Thanks for watching this project
